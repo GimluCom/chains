@@ -1,7 +1,6 @@
 {
-  "name": "Avalanche Mainnet",
+  "name": "Avalanche C-Chain",
   "chain": "AVAX",
-  "network": "mainnet",
   "rpc": [
     "https://api.avax.network/ext/bc/C/rpc"
   ],
@@ -15,11 +14,11 @@
   "shortName": "Avalanche",
   "chainId": 43114,
   "networkId": 43114,
-  "slip44": 9000,
+  "slip44": 9005,
   "explorers": [
     {
       "name": "snowtrace",
-      "url": "https://snowtrace.io/",
+      "url": "https://snowtrace.io",
       "standard": "EIP3091"
     }
   ]

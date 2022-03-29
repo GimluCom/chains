@@ -1,7 +1,6 @@
 {
   "name": "Zyx Mainnet",
   "chain": "ZYX",
-  "network": "mainnet",
   "rpc": [
     "https://rpc-1.zyx.network/",
     "https://rpc-2.zyx.network/",
@@ -22,7 +21,7 @@
   "networkId": 55,
   "explorers": [{
     "name": "zyxscan",
-    "url": "https://zyxscan.com/",
+    "url": "https://zyxscan.com",
     "standard": "none"
   }]
 }

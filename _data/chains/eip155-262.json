@@ -1,7 +1,6 @@
 {
   "name": "SUR Blockchain Network",
   "chain": "SUR",
-  "network": "mainnet",
   "rpc": [
     "https://sur.nilin.org"
   ],
@@ -18,7 +17,7 @@
   "icon": "SUR",
   "explorers": [{
     "name": "Surnet Explorer",
-    "url": "https://explorer.surnet.org/",
+    "url": "https://explorer.surnet.org",
     "icon": "SUR",
     "standard": "EIP3091"
   }]

@@ -1,9 +1,8 @@
 {
   "name": "Etho Protocol",
     "chain": "ETHO",
-    "network": "mainnet",
     "rpc": [
-      "https://rpc.ether1.org"
+      "https://rpc.ethoprotocol.com"
     ],
 
     "faucets": [],

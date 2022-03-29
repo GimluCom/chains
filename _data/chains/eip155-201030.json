@@ -1,7 +1,6 @@
 {
   "name": "Alaya Dev Testnet",
   "chain": "Alaya",
-  "network": "testnet",
   "rpc": [
     "https://devnetopenapi.alaya.network/rpc",
 	"wss://devnetopenapi.alaya.network/ws"
@@ -15,7 +14,7 @@
     "decimals": 18
   },
   "infoURL": "https://www.alaya.network/",
-  "shortName": "alaya",
+  "shortName": "alayadev",
   "chainId": 201030,
   "networkId": 1,
   "icon": "alaya",

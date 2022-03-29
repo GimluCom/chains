@@ -1,7 +1,6 @@
 {
     "name": "Thinkium Testnet Chain 1",
     "chain": "Thinkium",
-    "network": "testnet",
     "rpc": [
         "https://test1.thinkiumrpc.net/"
     ],
@@ -19,7 +18,7 @@
     "networkId": 60001,
     "explorers": [{
         "name": "thinkiumscan",
-        "url": "https://test1.thinkiumscan.net/",
+        "url": "https://test1.thinkiumscan.net",
         "standard": "EIP3091"
     }]
 }

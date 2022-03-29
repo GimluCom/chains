@@ -1,7 +1,6 @@
 {
     "name": "Thinkium Mainnet Chain 2",
     "chain": "Thinkium",
-    "network": "mainnet",
     "rpc": [
         "https://proxy2.thinkiumrpc.net/"
     ],
@@ -17,7 +16,7 @@
     "networkId": 70002,
     "explorers": [{
         "name": "thinkiumscan",
-        "url": "https://chain2.thinkiumscan.net/",
+        "url": "https://chain2.thinkiumscan.net",
         "standard": "EIP3091"
     }]
 }

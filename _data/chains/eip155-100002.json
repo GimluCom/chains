@@ -1,8 +1,8 @@
 {
   "name": "QuarkChain Mainnet Shard 1",
   "chain": "QuarkChain",
-  "network": "mainnet",
   "rpc": [
+    "https://mainnet-s1-ethapi.quarkchain.io",
     "http://eth-jrpc.mainnet.quarkchain.io:39001/"
   ],
   "faucets": [

@@ -1,7 +1,7 @@
 {
   "name": "Flare Mainnet",
   "chain": "FLR",
-  "network": "flare",
+  "icon": "flare",
   "rpc": [
   ],
   "faucets": [

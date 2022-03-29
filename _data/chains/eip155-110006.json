@@ -1,8 +1,8 @@
 {
   "name": "QuarkChain Devnet Shard 5",
   "chain": "QuarkChain",
-  "network": "devnet",
   "rpc": [
+    "https://devnet-s5-ethapi.quarkchain.io",
     "http://eth-jrpc.devnet.quarkchain.io:39905/"
   ],
   "faucets": [
